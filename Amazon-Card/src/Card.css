@@ -1,0 +1,23 @@
+.Card{
+    background-color: aqua;
+    height: 220px;
+    width: 210px;
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.Card p{
+    text-align: left;
+    padding: 4px;
+}
+
+.cardPrice{
+    text-align: center;
+    padding-top: 12px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 210px;
+    height: 40px;
+    background-color: rgb(189, 133, 90);
+}

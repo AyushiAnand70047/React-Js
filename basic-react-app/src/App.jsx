@@ -7,7 +7,8 @@ import MsgBox from "./MsgBox.jsx";
 function App() {
   return (
   <>
-    <MsgBox userName="Ayushi" textColor="yellow"/>
+    <MsgBox userName="Ayushi" textColor="blue"/>
+    <MsgBox userName="Anand" textColor="green"/>
     <ProductTab/>
   </>
   );
