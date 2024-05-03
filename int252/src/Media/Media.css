@@ -1,0 +1,14 @@
+/* MediaDisplay.css */
+
+.media-display {
+    margin-left: 20px;
+    width: 400px;
+    height: 200px;
+  }
+  
+  audio, video {
+    width: 100%;
+    border-radius: 5px;
+    justify-content: center;
+  }
+  

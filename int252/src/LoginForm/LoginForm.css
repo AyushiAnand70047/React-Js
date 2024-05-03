@@ -1,0 +1,51 @@
+/* src/App.css */
+  
+  .login-form {
+    width: 300px; /* Adjust the width as needed */
+    margin-left: 650px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center; /* Center the content horizontally */
+  }
+  
+  .login-form form {
+    width: 100%; /* Ensure form takes full width */
+  }
+  
+  .login-form form > div {
+    margin-bottom: 15px;
+  }
+  
+  .login-form form label {
+    margin-bottom: 5px;
+    display: block; /* Ensure labels are displayed as block elements */
+  }
+  
+  .login-form form input[type="email"],
+  .login-form form input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+    width: 100%; /* Ensure input fields take full width */
+    box-sizing: border-box; /* Include padding in the width */
+  }
+  
+  .login-form form button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%; /* Ensure button takes full width */
+  }
+  
+  .login-form form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  

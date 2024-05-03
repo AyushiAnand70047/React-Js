@@ -1,0 +1,18 @@
+/* ImageCard.css */
+
+.image-card {
+    width: 200px;
+    height: 200px;
+    border: 3px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+   
+  }
+  
